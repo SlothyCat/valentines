@@ -10,11 +10,11 @@ This is my **first-ever webpage**, with the help of some online resources! ✨ I
 ### 💡 Why I Made This:  
 This is not just my **first webpage**, but also my **first project for my girlfriend**. My girlfriend saw similar websites on social media and was wondering if I could come up with something like this!
 
-To Everyone who intends to use this as reference,
+To **Everyone** who intends to use this as reference,
 Hope she says **"Yes"**! ❤️🥰  
 
-### References:
-https://github.com/ivysone/Will-you-be-my-Valentine-
+### 📖 References:
+https://github.com/ivysone/Will-you-be-my-Valentine- <br>
 https://www.youtube.com/watch?v=QrZd1RmcJK8
+
 ---
-💌
